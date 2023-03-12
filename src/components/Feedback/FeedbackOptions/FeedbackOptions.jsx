@@ -1,5 +1,6 @@
 import FeedbackBtn from './FeedbackOptions.styled';
 import PropTypes from 'prop-types';
+
 const FeedbackOptions = ({ onLeaveFeedback }) => {
   return (
     <div>
